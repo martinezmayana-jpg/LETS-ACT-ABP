@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605072150110PM6V9</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026050721501184JC91</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>LET&apos;S ACT</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>English theatre for kids</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana María Martínez Maya</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778150967821</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778165542330-m6lseosly</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>WHAT IS THIS?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>WHAT IS THIS?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778165542330-m6lseosly</odePageId>
+      <odeBlockId>block-1778165961853-u1pvl7db3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778165542330-m6lseosly</odePageId>
+          <odeBlockId>block-1778165961853-u1pvl7db3</odeBlockId>
+          <odeIdeviceId>idevice-1778165961849-upqrxs5ti</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In this project, students will create and perform a small play in English for younger children in Kindergarten. The theme is about theatre, stories, animals, emotions, and daily routines.</p>
+<p>The students will work in groups and each person will have a role, like writer, actor, or video helper. First, they will write a simple script in English. Then, they will practise speaking, pronunciation, and acting. Finally, they will perform the play and record it on video to share with the school.</p>
+<p>During the project, students will improve their English speaking and writing skills, learn to work as a team, and use technology in a fun way.</p>
+<p>The project will last about 3 weeks, with 8 to 10 lessons. It connects English, Art, and Spanish Language classes.</p>
+<p>The main goal is to learn English in a creative and real situation while having fun and helping younger students enjoy theatre.</p>
+<p>Some applications to use in class: <a href="https://www.symbaloo.com/shared/AAAAAf8b96cAA41-5EZK4w==" title="">Symbaloo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778165961849-upqrxs5ti","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In this project, students will create and perform a small play in English for younger children in Kindergarten. The theme is about theatre, stories, animals, emotions, and daily routines.</p>\n<p>The students will work in groups and each person will have a role, like writer, actor, or video helper. First, they will write a simple script in English. Then, they will practise speaking, pronunciation, and acting. Finally, they will perform the play and record it on video to share with the school.</p>\n<p>During the project, students will improve their English speaking and writing skills, learn to work as a team, and use technology in a fun way.</p>\n<p>The project will last about 3 weeks, with 8 to 10 lessons. It connects English, Art, and Spanish Language classes.</p>\n<p>The main goal is to learn English in a creative and real situation while having fun and helping younger students enjoy theatre.</p>\n<p>Some applications to use in class: <a href=\"https://www.symbaloo.com/shared/AAAAAf8b96cAA41-5EZK4w==\" title=\"\">Symbaloo</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778165564563-wry1ng9nw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PAY ATTENTION</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAY ATTENTION</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778165564563-wry1ng9nw</odePageId>
+      <odeBlockId>block-1778165568019-svbt6ddjh</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778165564563-wry1ng9nw</odePageId>
+          <odeBlockId>block-1778165568019-svbt6ddjh</odeBlockId>
+          <odeIdeviceId>idevice-1778165568018-jbunmb9rj</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778165568018-jbunmb9rj" title="" href="{{context_path}}/content/resources/INFOGRAFÍA.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/INFOGRAFÍA.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778165568018-jbunmb9rj","img_0":{"img":"{{context_path}}/content/resources/INFOGRAFÍA.jpeg","thumbnail":"{{context_path}}/content/resources/INFOGRAFÍA.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>9ec8dc1e-18e3-4ca8-b153-fa2fdde1ffb8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>START OUR PROJECT!</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>START OUR PROJECT!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>START OUR PROJECT!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>START OUR PROJECT!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>9ec8dc1e-18e3-4ca8-b153-fa2fdde1ffb8</odePageId>
+      <odeBlockId>block-1778151011512-34wdycmjh</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>9ec8dc1e-18e3-4ca8-b153-fa2fdde1ffb8</odePageId>
+          <odeBlockId>block-1778151011512-34wdycmjh</odeBlockId>
+          <odeIdeviceId>idevice-1778151011508-07oljv39r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>LET’S ACT! </strong><br />First, we are going to watch two examples of children’s theatre plays in English.</p>
+<p><a href="https://padlet.com/pfjz2wkm7b/let-s-act-fcpd46trkuk1isz7" title="">PADLET: </a><a href="https://padlet.com/pfjz2wkm7b/let-s-act-fcpd46trkuk1isz7" title="">LOOK FOR THEATRE EXAMPLES</a></p>
+<p>While you watch, think about these questions:</p>
+<p>Who are the characters?<br />What happens in the story?<br />What English words do you understand?<br /><br /><strong>Your Mission</strong><br />At the end of this project, you will create your own theatre play in English and at the end, we will perform in 5 years class. Also we will record your theatre play for the school.<br /><br /><strong>Ready to become actors and actresses?</strong><br /><strong>Let’s watch, learn and have fun together!</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778151011508-07oljv39r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>LET’S ACT! </strong><br />First, we are going to watch two examples of children’s theatre plays in English.</p>\n<p><a href=\"https://padlet.com/pfjz2wkm7b/let-s-act-fcpd46trkuk1isz7\" title=\"\">PADLET: </a><a href=\"https://padlet.com/pfjz2wkm7b/let-s-act-fcpd46trkuk1isz7\" title=\"\">LOOK FOR THEATRE EXAMPLES</a></p>\n<p>While you watch, think about these questions:</p>\n<p>Who are the characters?<br />What happens in the story?<br />What English words do you understand?<br /><br /><strong>Your Mission</strong><br />At the end of this project, you will create your own theatre play in English and at the end, we will perform in 5 years class. Also we will record your theatre play for the school.<br /><br /><strong>Ready to become actors and actresses?</strong><br /><strong>Let’s watch, learn and have fun together!</strong></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778151285294-coshhcono</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>BRAINSTORMING</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>BRAINSTORMING</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>BRAINSTORMING</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>BRAINSTORMING</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778151285294-coshhcono</odePageId>
+      <odeBlockId>block-1778153232353-j8ll8c5lz</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778151285294-coshhcono</odePageId>
+          <odeBlockId>block-1778153232353-j8ll8c5lz</odeBlockId>
+          <odeIdeviceId>idevice-1778153232347-wricxcddu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Today we are going to share ideas for our theatre project using <a href="https://www.mentimeter.com/es-ES" title="">Mentimeter.</a></p>
+<p><strong>- What do you have to do?</strong><br /> 1º Wait for your teacher to give you the Mentimeter code.<br />2º Enter the code on the website.<br />3º Write your ideas for the project.<br />4º You can think about: Characters, stories, animals, costumes, decorations, funny moments, english words or expressions<br /></p>
+<p><strong>Important!</strong><br />Respect other people’s ideas.<br />Write short and clear answers.<br />Think carefully before writing.<br />Reflection Time<br />Before writing your ideas, think about these questions:</p>
+<p>- What kind of story would you like to create?<br />- What characters could appear in the theatre play?<br />- What would make the play fun for little children?<br />- How can we work well as a team?</p>
+<p><br /><strong>Your ideas will help us create our final theatre project together!</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778153232347-wricxcddu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Today we are going to share ideas for our theatre project using <a href=\"https://www.mentimeter.com/es-ES\" title=\"\">Mentimeter.</a></p>\n<p><strong>- What do you have to do?</strong><br /> 1º Wait for your teacher to give you the Mentimeter code.<br />2º Enter the code on the website.<br />3º Write your ideas for the project.<br />4º You can think about: Characters, stories, animals, costumes, decorations, funny moments, english words or expressions<br /></p>\n<p><strong>Important!</strong><br />Respect other people’s ideas.<br />Write short and clear answers.<br />Think carefully before writing.<br />Reflection Time<br />Before writing your ideas, think about these questions:</p>\n<p>- What kind of story would you like to create?<br />- What characters could appear in the theatre play?<br />- What would make the play fun for little children?<br />- How can we work well as a team?</p>\n<p><br /><strong>Your ideas will help us create our final theatre project together!</strong></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778153475203-wfxrlrjr2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SCRIPT CREATION</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SCRIPT CREATION</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778153475203-wfxrlrjr2</odePageId>
+      <odeBlockId>block-1778153478037-oi3672spn</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778153475203-wfxrlrjr2</odePageId>
+          <odeBlockId>block-1778153478037-oi3672spn</odeBlockId>
+          <odeIdeviceId>idevice-1778153478034-vuxbklytj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Today you are going to start writing your theatre script in English with your group.</p>
+<p><strong>What do you have to do?</strong><br />- Work together with your team.<br />- Create a short and simple story.<br />- Write the dialogues for the characters.<br />- Use easy English sentences and vocabulary.<br />- Think about the beginning, middle and ending of the story.<br /></p>
+<p><strong>You will use:</strong><br /><a href="https://docs.google.com/document/d/1_3W5Ub4y85wh7lv1KJLhZ-HEtZaDGXQr87wGP447Ysk/edit?hl=es&amp;tab=t.0" title="">Google Docs </a></p>
+<p>On-line Dictionary - <a href="https://www.wordreference.com" title="">wordreference</a></p>
+<p><a href="https://classroom.google.com" title="">Google Classroom</a></p>
+<p><br /><strong>Remember!</strong><br />- Everyone in the group must participate.<br />- Help your classmates if they need support.<br />- Use polite words and respect other ideas.<br />- Check spelling and punctuation before finishing.<br />- Think about these questions:</p>
+<p>     - Who are the characters?<br />     - Where does the story happen?<br />     - What problem or adventure is in the story?<br />     - How does the story end?<br />     - Will little children understand your play?<br /></p>
+<p><strong>Your goal</strong><br />Create a fun and clear theatre script in English for the children in PrePrimary Education.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778153478034-vuxbklytj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Today you are going to start writing your theatre script in English with your group.</p>\n<p><strong>What do you have to do?</strong><br />- Work together with your team.<br />- Create a short and simple story.<br />- Write the dialogues for the characters.<br />- Use easy English sentences and vocabulary.<br />- Think about the beginning, middle and ending of the story.<br /></p>\n<p><strong>You will use:</strong><br /><a href=\"https://docs.google.com/document/d/1_3W5Ub4y85wh7lv1KJLhZ-HEtZaDGXQr87wGP447Ysk/edit?hl=es&amp;tab=t.0\" title=\"\">Google Docs </a></p>\n<p>On-line Dictionary - <a href=\"https://www.wordreference.com\" title=\"\">wordreference</a></p>\n<p><a href=\"https://classroom.google.com\" title=\"\">Google Classroom</a></p>\n<p><br /><strong>Remember!</strong><br />- Everyone in the group must participate.<br />- Help your classmates if they need support.<br />- Use polite words and respect other ideas.<br />- Check spelling and punctuation before finishing.<br />- Think about these questions:</p>\n<p>     - Who are the characters?<br />     - Where does the story happen?<br />     - What problem or adventure is in the story?<br />     - How does the story end?<br />     - Will little children understand your play?<br /></p>\n<p><strong>Your goal</strong><br />Create a fun and clear theatre script in English for the children in PrePrimary Education.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778163443578-5234kxgup</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>FIRST REHEARSAL AND CHARACTERS</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FIRST REHEARSAL AND CHARACTERS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>FIRST REHEARSAL AND CHARACTERS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FIRST REHEARSAL AND CHARACTERS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778163443578-5234kxgup</odePageId>
+      <odeBlockId>block-1778163447730-b1hbh1btk</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778163443578-5234kxgup</odePageId>
+          <odeBlockId>block-1778163447730-b1hbh1btk</odeBlockId>
+          <odeIdeviceId>idevice-1778163447725-hwapr3a8d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>What do you have to do?</strong><br />- Decide who will play each character.<br />- Read the script together.<br />- Practise your dialogues in English.<br />- Speak clearly and loudly.<br />- Help your team during the rehearsal.<br /></p>
+<p><strong>You will use:</strong><br />- Your digital script</p>
+<p>- Audio recorder</p>
+<p>-<a href="https://promova.com/es/foxtrot/g-ai-eng-course?utm_source=google_promin%2Cgoogle&amp;utm_medium=paid%2Ccpc&amp;utm_campaign=22849227731&amp;utm_adgroupid=182866347789%2C182866347789&amp;utm_ad_id=766866219262&amp;utm_keyword=elsa+speak%2Celsa+speak&amp;utm_matchtype=e%2Ce&amp;utm_network=g&amp;utm_placement=&amp;utm_placement_category=&amp;utm_device=c&amp;utm_device_model=&amp;utm_gclid=Cj0KCQjw8PDPBhCeARIsAOJwmWUKN3yc67ymU_jNTtm09gnBMY2VYOTCJzzO-y-qzx166qxorATYjrsaAq4KEALw_wcB&amp;utm_feeditemid=&amp;utm_extensionid=&amp;utm_targetid=kwd-1360917851947%2Ckwd-1360917851947&amp;utm_loc_interest_ms=&amp;utm_loc_physical_ms=9219312&amp;entry_point=true&amp;utm_campaignid=22849227731&amp;gad_source=1&amp;gad_campaignid=22849227731&amp;gbraid=0AAAAArFfFtjvk32j8y6PSUMSIdg-rmSPM&amp;gclid=Cj0KCQjw8PDPBhCeARIsAOJwmWUKN3yc67ymU_jNTtm09gnBMY2VYOTCJzzO-y-qzx166qxorATYjrsaAq4KEALw_wcB" title=""> ELSA Speaks</a></p>
+<p>- Classroom devices</p>
+<p><strong>Remember!</strong><br />- Respect all classmates and their ideas.<br />- Everyone must participate.<br />- Practise pronunciation and expression.<br />- Do not worry about mistakes — we are learning together.<br />- Think about these questions:<br />- Does your character sound happy, sad or excited?<br />- Can the audience understand you clearly?<br />- Are you speaking with confidence?<br />- How can your group improve the play?<br /><strong></strong></p>
+<p><strong>Your goal</strong><br />Work together to organise the theatre play and improve your speaking in English.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778163447725-hwapr3a8d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>What do you have to do?</strong><br />- Decide who will play each character.<br />- Read the script together.<br />- Practise your dialogues in English.<br />- Speak clearly and loudly.<br />- Help your team during the rehearsal.<br /></p>\n<p><strong>You will use:</strong><br />- Your digital script</p>\n<p>- Audio recorder</p>\n<p>-<a href=\"https://promova.com/es/foxtrot/g-ai-eng-course?utm_source=google_promin%2Cgoogle&amp;utm_medium=paid%2Ccpc&amp;utm_campaign=22849227731&amp;utm_adgroupid=182866347789%2C182866347789&amp;utm_ad_id=766866219262&amp;utm_keyword=elsa+speak%2Celsa+speak&amp;utm_matchtype=e%2Ce&amp;utm_network=g&amp;utm_placement=&amp;utm_placement_category=&amp;utm_device=c&amp;utm_device_model=&amp;utm_gclid=Cj0KCQjw8PDPBhCeARIsAOJwmWUKN3yc67ymU_jNTtm09gnBMY2VYOTCJzzO-y-qzx166qxorATYjrsaAq4KEALw_wcB&amp;utm_feeditemid=&amp;utm_extensionid=&amp;utm_targetid=kwd-1360917851947%2Ckwd-1360917851947&amp;utm_loc_interest_ms=&amp;utm_loc_physical_ms=9219312&amp;entry_point=true&amp;utm_campaignid=22849227731&amp;gad_source=1&amp;gad_campaignid=22849227731&amp;gbraid=0AAAAArFfFtjvk32j8y6PSUMSIdg-rmSPM&amp;gclid=Cj0KCQjw8PDPBhCeARIsAOJwmWUKN3yc67ymU_jNTtm09gnBMY2VYOTCJzzO-y-qzx166qxorATYjrsaAq4KEALw_wcB\" title=\"\"> ELSA Speaks</a></p>\n<p>- Classroom devices</p>\n<p><strong>Remember!</strong><br />- Respect all classmates and their ideas.<br />- Everyone must participate.<br />- Practise pronunciation and expression.<br />- Do not worry about mistakes — we are learning together.<br />- Think about these questions:<br />- Does your character sound happy, sad or excited?<br />- Can the audience understand you clearly?<br />- Are you speaking with confidence?<br />- How can your group improve the play?<br /><strong></strong></p>\n<p><strong>Your goal</strong><br />Work together to organise the theatre play and improve your speaking in English.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778166299132-uo680u5vp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>HELLO, TEACHERS// GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HELLO, TEACHERS// GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>HELLO, TEACHERS// GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HELLO, TEACHERS// GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778166299132-uo680u5vp</odePageId>
+      <odeBlockId>block-1778166303628-fixbveqc2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778166299132-uo680u5vp</odePageId>
+          <odeBlockId>block-1778166303628-fixbveqc2</odeBlockId>
+          <odeIdeviceId>idevice-1778166303626-94avhcp6n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>For teachers only: here you can find the connection between the different tasks, the LOMLOE assessment criteria, materials, applications, and more.</p>
+<p>Here you can also find the project timeline- <a href="https://padlet.com/pfjz2wkm7b/let-s-act-ojfhh4h6osjavkx0" title="">PADLET TIMELINE</a></p>
+<p>In the “Self-assessment” section, you can find the self-evaluation form that I have included so that students can assess themselves. I also include a link to the <a href="https://drive.google.com/file/d/1FL2IO1t2Aiq2kTXZ9TmbglciJLv6t7RN/view?usp=sharing" title="">checklist.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778166303626-94avhcp6n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>For teachers only: here you can find the connection between the different tasks, the LOMLOE assessment criteria, materials, applications, and more.</p>\n<p>Here you can also find the project timeline- <a href=\"https://padlet.com/pfjz2wkm7b/let-s-act-ojfhh4h6osjavkx0\" title=\"\">PADLET TIMELINE</a></p>\n<p>In the “Self-assessment” section, you can find the self-evaluation form that I have included so that students can assess themselves. I also include a link to the <a href=\"https://drive.google.com/file/d/1FL2IO1t2Aiq2kTXZ9TmbglciJLv6t7RN/view?usp=sharing\" title=\"\">checklist.</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778166299132-uo680u5vp</odePageId>
+      <odeBlockId>block-1778166310144-h2d5wsa3o</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778166299132-uo680u5vp</odePageId>
+          <odeBlockId>block-1778166310144-h2d5wsa3o</odeBlockId>
+          <odeIdeviceId>idevice-1778166310143-6tn17parl</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778166310143-6tn17parl" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-07 a las 17.03.40.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-07 a las 17.03.40.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778166310143-6tn17parl" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-07 a las 17.03.51.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-07 a las 17.03.51.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1778166310143-6tn17parl" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-07 a las 17.04.02.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-07 a las 17.04.02.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778166310143-6tn17parl","img_2":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-07 a las 17.03.40.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-07 a las 17.03.40.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-07 a las 17.03.51.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-07 a las 17.03.51.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-07 a las 17.04.02.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-07 a las 17.04.02.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778163763548-l7bt9m99t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>THEATRE BACKGROUNDS</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>THEATRE BACKGROUNDS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778163763548-l7bt9m99t</odePageId>
+      <odeBlockId>block-1778163769964-hi6qm7zbb</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778163763548-l7bt9m99t</odePageId>
+          <odeBlockId>block-1778163769964-hi6qm7zbb</odeBlockId>
+          <odeIdeviceId>idevice-1778163769959-kxoguy64c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>What do you have to do?</strong><br />- Work with your group.<br />- Design backgrounds, posters or decorations for the play.<br />- Choose colours, images and titles carefully.<br />- Make your theatre attractive and easy to understand for kids.<br /></p>
+<p><strong>You will use:</strong><br title="" /><a href="https://www.canva.com">Canva</a><br />Classroom devices or computers<br /></p>
+<p><strong>Remember!</strong><br />- Everyone in the group must participate.<br />- Respect your classmates’ ideas.<br />- Keep your design clear and creative.<br />- Use simple English words if needed.<br /></p>
+<p><strong>Think about these questions:</strong><br />- Does your background match the story?<br />- Is the design colourful and interesting?<br />- Will young children understand the images?<br />- Are all group members helping?<br /></p>
+<p><strong>Your goal</strong><br />Create creative digital materials to make your theatre play more fun and visual.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778163769959-kxoguy64c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>What do you have to do?</strong><br />- Work with your group.<br />- Design backgrounds, posters or decorations for the play.<br />- Choose colours, images and titles carefully.<br />- Make your theatre attractive and easy to understand for kids.<br /></p>\n<p><strong>You will use:</strong><br title=\"\" /><a href=\"https://www.canva.com\">Canva</a><br />Classroom devices or computers<br /></p>\n<p><strong>Remember!</strong><br />- Everyone in the group must participate.<br />- Respect your classmates’ ideas.<br />- Keep your design clear and creative.<br />- Use simple English words if needed.<br /></p>\n<p><strong>Think about these questions:</strong><br />- Does your background match the story?<br />- Is the design colourful and interesting?<br />- Will young children understand the images?<br />- Are all group members helping?<br /></p>\n<p><strong>Your goal</strong><br />Create creative digital materials to make your theatre play more fun and visual.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778163976839-0u43i437u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RECORDING</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECORDING</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778163976839-0u43i437u</odePageId>
+      <odeBlockId>block-1778163984757-84m9xpige</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778163976839-0u43i437u</odePageId>
+          <odeBlockId>block-1778163984757-84m9xpige</odeBlockId>
+          <odeIdeviceId>idevice-1778163984753-sqbp1n71b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Today you are going to record your final theatre performance in English.</p>
+<p><strong>What do you have to do?</strong><br />- Work together with your group.<br />- Act out your theatre play.<br />- Speak clearly and loudly in English.<br />- Use your expressions, movements and costumes.<br />- Try your best and enjoy the performance.<br /><strong></strong></p>
+<p><strong>You will use:</strong><br />- Tablet, camera or mobile phone<br />- Your theatre materials and decorations<br /></p>
+<p><strong>Remember!</strong><br />- Respect your classmates during the recording.<br />- Listen carefully and wait for your turn.<br />- Do not worry if you make small mistakes.<br />- Help your group if someone needs support.<br /></p>
+<p><strong>Think about these questions:</strong><br />- Can the audience understand your English?<br />- Are you speaking with confidence?<br />- Are you using good expression and body language?<br />- Is your group working well together?<br /></p>
+<p><strong>Your goal</strong><br />Communicate in English through a real theatre performance for the school community.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778163984753-sqbp1n71b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Today you are going to record your final theatre performance in English.</p>\n<p><strong>What do you have to do?</strong><br />- Work together with your group.<br />- Act out your theatre play.<br />- Speak clearly and loudly in English.<br />- Use your expressions, movements and costumes.<br />- Try your best and enjoy the performance.<br /><strong></strong></p>\n<p><strong>You will use:</strong><br />- Tablet, camera or mobile phone<br />- Your theatre materials and decorations<br /></p>\n<p><strong>Remember!</strong><br />- Respect your classmates during the recording.<br />- Listen carefully and wait for your turn.<br />- Do not worry if you make small mistakes.<br />- Help your group if someone needs support.<br /></p>\n<p><strong>Think about these questions:</strong><br />- Can the audience understand your English?<br />- Are you speaking with confidence?<br />- Are you using good expression and body language?<br />- Is your group working well together?<br /></p>\n<p><strong>Your goal</strong><br />Communicate in English through a real theatre performance for the school community.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778164484833-3l7suir1m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CREATE YOUR VIDEO!</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CREATE YOUR VIDEO!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778164484833-3l7suir1m</odePageId>
+      <odeBlockId>block-1778164486664-803jdhtgn</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778164484833-3l7suir1m</odePageId>
+          <odeBlockId>block-1778164486664-803jdhtgn</odeBlockId>
+          <odeIdeviceId>idevice-1778164486662-0thrgzcnd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Today you are going to edit your final theatre video with your group.</p>
+<p><strong>What do you have to do?</strong><br />- Work together with your team.<br />- Add scenes, titles or music to the video.<br />- Choose the best parts of your recording.<br />- Make the video clear, creative and fun to watch.<br /></p>
+<p><strong title="">You will use:</strong><br />-<a href="https://www.capcut.com"> CapCut</a> <br />- Classroom devices<br /></p>
+<p><strong>Remember!</strong><br />- Everyone in the group must participate.<br />- Respect your classmates’ ideas.<br />- Use the digital tools carefully and responsibly.<br />- Keep the video simple and organised.</p>
+<p><strong>Your goal</strong><br />Create a final digital video of your theatre play using multimedia tools.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778164486662-0thrgzcnd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Today you are going to edit your final theatre video with your group.</p>\n<p><strong>What do you have to do?</strong><br />- Work together with your team.<br />- Add scenes, titles or music to the video.<br />- Choose the best parts of your recording.<br />- Make the video clear, creative and fun to watch.<br /></p>\n<p><strong title=\"\">You will use:</strong><br />-<a href=\"https://www.capcut.com\"> CapCut</a> <br />- Classroom devices<br /></p>\n<p><strong>Remember!</strong><br />- Everyone in the group must participate.<br />- Respect your classmates’ ideas.<br />- Use the digital tools carefully and responsibly.<br />- Keep the video simple and organised.</p>\n<p><strong>Your goal</strong><br />Create a final digital video of your theatre play using multimedia tools.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778164726116-80qk93fag</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LET&apos;S ACT</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LET&apos;S ACT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>LET&apos;S ACT</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778164726116-80qk93fag</odePageId>
+      <odeBlockId>block-1778164730082-gyq2juya6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778164726116-80qk93fag</odePageId>
+          <odeBlockId>block-1778164730082-gyq2juya6</odeBlockId>
+          <odeIdeviceId>idevice-1778164730077-9slbhi5r9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Today you are going to present your theatre play to the children in Infant Education.</p>
+<p><strong>What do you have to do?</strong><br />- Watch and present your final theatre video.<br /><br /><strong>You will use:</strong><br />- Video<br />- Projector<br /><br /><strong>Remember!</strong><br />- Be respectful and responsible during the presentation.<br />- Listen carefully when others are speaking.<br />- Show a positive attitude and teamwork.<br />- Feel proud of your work and effort.<br /></p>
+<p><strong>Think about these questions:</strong><br />- Can the audience understand the story?<br />- Is your English clear and understandable?<br />- How do younger children react to the play?<br />- What have you learned during this project?</p>
+<p><br /><strong>Your goal</strong><br />Share your theatre play with a real audience using English in a meaningful and communicative way.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778164730077-9slbhi5r9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Today you are going to present your theatre play to the children in Infant Education.</p>\n<p><strong>What do you have to do?</strong><br />- Watch and present your final theatre video.<br /><br /><strong>You will use:</strong><br />- Video<br />- Projector<br /><br /><strong>Remember!</strong><br />- Be respectful and responsible during the presentation.<br />- Listen carefully when others are speaking.<br />- Show a positive attitude and teamwork.<br />- Feel proud of your work and effort.<br /></p>\n<p><strong>Think about these questions:</strong><br />- Can the audience understand the story?<br />- Is your English clear and understandable?<br />- How do younger children react to the play?<br />- What have you learned during this project?</p>\n<p><br /><strong>Your goal</strong><br />Share your theatre play with a real audience using English in a meaningful and communicative way.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778164839358-jqgvz7333</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SELF-ASSESMENT</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SELF-ASSESMENT</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778164839358-jqgvz7333</odePageId>
+      <odeBlockId>block-1778164894365-tsthlfasj</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778164839358-jqgvz7333</odePageId>
+          <odeBlockId>block-1778164894365-tsthlfasj</odeBlockId>
+          <odeIdeviceId>idevice-1778164894360-v9d0531g4</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1778164894360-v9d0531g4" data-evaluationb="false" data-evaluationid="bac9dff3-5d9d-46fe-90bb-087286369bb9"></div>
+            <div id="frmMainContainer-idevice-1778164894360-v9d0531g4" class="form-IDevice" data-id="idevice-1778164894360-v9d0531g4">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Complete the questions in the following quiz</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Time per question:</span></strong>
+                        <span id="frmPTime-idevice-1778164894360-v9d0531g4">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1778164894360-v9d0531g4" style="display:none;">
+                      <button  id="frmStartGame-idevice-1778164894360-v9d0531g4" type="button" class="btn btn-primary">Click here to start</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1778164894360-v9d0531g4" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1778164894360-v9d0531g4" > </div>
+                        <div id="frmCover-idevice-1778164894360-v9d0531g4" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1778164894360-v9d0531g4" class="form-results-container inline">
+                        <div id="form-score-idevice-1778164894360-v9d0531g4" class="score-text">Score.</div>
+                        <div id="form-result-test-idevice-1778164894360-v9d0531g4" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1778164894360-v9d0531g4" class="btn btn-primary" type="button" value="Check"
+                            data-id="idevice-1778164894360-v9d0531g4" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1778164894360-v9d0531g4" type="button" value="Reset"
+                            data-id="idevice-1778164894360-v9d0531g4" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1778164894360-v9d0531g4" class="btn btn-primary" type="button" value="Show answers"
+                            data-id="idevice-1778164894360-v9d0531g4" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1778164894360-v9d0531g4" type="button" value="Save score" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778164894360-v9d0531g4","evaluation":false,"evaluationID":"bac9dff3-5d9d-46fe-90bb-087286369bb9","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"The score can't be saved because this page is not part of a SCORM package.","msgYouScore":"You scores is","msgScore":"Score","msgWeight":"Weight","msgYouLastScore":"The last score saved is","msgOnlySaveScore":"You can only save the score once!","msgOnlySave":"You can only save once","msgOnlySaveAuto":"Your score will be saved after each question. You can only play once.","msgSaveAuto":"Your score will be automatically saved after each question.","msgSeveralScore":"You can save the score as many times as you want","msgPlaySeveralTimes":"You can do this activity as many times as you want","msgActityComply":"You have already done this activity.","msgUncompletedActivity":"Incomplete activity","msgSuccessfulActivity":"Activity: Passed. Score: %s","msgUnsuccessfulActivity":"Activity: Not passed. Score: %s","msgTypeGame":"Form","msgStartGame":"Click here to start","msgTime":"Time per question","msgSaveScore":"Save score","msgResult":"Result","msgCheck":"Check","msgReset":"Reset","msgShowAnswers":"Show answers","msgTestResultPass":"Congratulations! You passed the test","msgTestResultNotPass":"Sorry. You failed the test","msgTrueFalseHelp":"Select whether the statement is true or false","msgDropdownHelp":"Choose the correct answer among the options proposed","msgFillHelp":"Fill in the blanks with the appropriate word","msgSingleSelectionHelp":"Multiple choice with only one correct answer","msgMultipleSelectionHelp":"Multiple choice with multiple corrects answers","msgPlayStart":"Click here to start","msgTrue":"True","msgFalse":"False","msgNext":"Next","msgPrevious":"Previous","msgSuggestion":"Suggestion"},"id":"idevice-1778164894360-v9d0531g4","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Complete the questions in the following quiz</p>","questionsData":[{"id":"1778164973879-5SH0F","activityType":"selection","baseText":"<p>He participado en las actividades del grupo</p>\n<p></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[true,"MUCHO"],[true,"UN POCO"],[true,"NECESITO MEJORAR"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778165026026-1X5J1","activityType":"selection","baseText":"<p>He intentado hablar en inglés durante el proyecto</p>\n<p></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[true,"MUCHO"],[true,"UN POCO"],[true,"NECESITO MEJORAR"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778165070425-AX75L","activityType":"selection","baseText":"<p>He ayudado a mis compañeros/as</p>\n<p></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[true,"MUCHO"],[true,"UN POCO"],[true,"NECESITO MEJORAR"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778165126740-6M0G0","activityType":"selection","baseText":"<p>He utilizado bien las herramientas digitales</p>\n<p></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[true,"MUCHO"],[true,"UN POCO"],[true,"NECESITO MEJORAR"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778165172520-MOO19","activityType":"selection","baseText":"<p>Me he sentido cómodo/a participando</p>\n<p></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[true,"MUCHO"],[true,"UN POCO"],[true,"NECESITO MEJORAR"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778166768201-ffd7lqvz0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CREDITS</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CREDITS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778166768201-ffd7lqvz0</odePageId>
+      <odeBlockId>block-1778166837209-a47s6tzhm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778166768201-ffd7lqvz0</odePageId>
+          <odeBlockId>block-1778166837209-a47s6tzhm</odeBlockId>
+          <odeIdeviceId>idevice-1778166837208-6vp5y3de5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Author:<br />Ana María Martínez Maya / Colegio La Purísima</p>
+<p>Description:<br />This project is about theatre in Primary school.</p>
+<p>License:<br />Creative Commons Attribution (CC BY-SA 4.0)</p>
+<p>Editable file:<br />Download the editable version<a href="https://drive.google.com/file/d/19rlFEUcSv3TXLxylTrAia6hZu60PWRGA/view?usp=sharing" title=""> HERE</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778166837208-6vp5y3de5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Author:<br />Ana María Martínez Maya / Colegio La Purísima</p>\n<p>Description:<br />This project is about theatre in Primary school.</p>\n<p>License:<br />Creative Commons Attribution (CC BY-SA 4.0)</p>\n<p>Editable file:<br />Download the editable version<a href=\"https://drive.google.com/file/d/19rlFEUcSv3TXLxylTrAia6hZu60PWRGA/view?usp=sharing\" title=\"\"> HERE</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
